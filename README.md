@@ -1,3 +1,2 @@
 ﻿# Deep-Learning-MA01
-Course overview                                                                                                          
-This lab builds deep learning skills from the ground up — starting with neural networks implemented from scratch in NumPy, then moving to TensorFlow and PyTorch. Topics include feedforward networks and back-propagation, CNNs and transfer learning, RNNs/LSTMs/GRUs, optimization and regularization, autoencoders, attention, and generative models (VAEs, GANs). The focus is on understanding what happens inside a model, then training and debugging real ones with modern frameworks.
+This code example implements the perceptron learning algorithm and demonstrates how to use it to learn the not AND (NAND) function. More context for this code example can be found in the section "The Perceptron Learning Algorithm" in Chapter 1 in the book Learning Deep Learning by Magnus Ekman (ISBN: 9780137470358).
