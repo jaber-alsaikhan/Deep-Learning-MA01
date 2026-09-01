@@ -1,1 +1,3 @@
 ﻿# Deep-Learning-MA01
+Course overview
+This lab builds deep learning skills from the ground up — starting with neural networks implemented from scratch in NumPy, then moving to TensorFlow and PyTorch. Topics include feedforward networks and back-propagation, CNNs and transfer learning, RNNs/LSTMs/GRUs, optimization and regularization, autoencoders, attention, and generative models (VAEs, GANs). The focus is on understanding what happens inside a model, then training and debugging real ones with modern frameworks.
