@@ -1,4 +1,5 @@
-# Lab 2 — Activations, Loss, and How a Network Learns
+git add lab03/arti402_lab3_2240006539.ipynb
+git commit -m "Shorten and humanize Q4 short-answer responses in lab03"# Lab 2 — Activations, Loss, and How a Network Learns
 
 **Week 2 · Introduction to Deep Learning**
 Activation functions and feedforward neural networks; gradient-based optimisation and back-propagation.
