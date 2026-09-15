@@ -14,6 +14,8 @@ This lab builds deep learning skills from the ground up — starting with neural
 | Lab | Topic | Week |
 |---|---|---|
 | [lab01](./lab01) | From a Single Neuron to a Layer | 1 |
+| [lab02](./lab02) | Activations, Loss, and How a Network Learns | 2 |
+| [lab03](./lab03) | CNN Architecture: The Four Building Blocks | 3 |
  
   
 ## How to use this repo
@@ -24,5 +26,6 @@ This lab builds deep learning skills from the ground up — starting with neural
 ## Reference books
  
 - Kinsley, H. & Kukieła, D. — *Neural Networks from Scratch in Python*
+- Ekman, M. — *Learning Deep Learning*
 
 ---
