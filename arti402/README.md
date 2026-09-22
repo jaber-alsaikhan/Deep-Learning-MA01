@@ -16,6 +16,7 @@ This lab builds deep learning skills from the ground up — starting with neural
 | [lab01](./lab01) | From a Single Neuron to a Layer | 1 |
 | [lab02](./lab02) | Activations, Loss, and How a Network Learns | 2 |
 | [lab03](./lab03) | CNN Architecture: The Four Building Blocks | 3 |
+| [lab04](./lab04) | Recurrent Networks: RNN, LSTM and GRU | 4 |
  
   
 ## How to use this repo
