@@ -17,6 +17,7 @@ This lab builds deep learning skills from the ground up — starting with neural
 | [lab02](./lab02) | Activations, Loss, and How a Network Learns | 2 |
 | [lab03](./lab03) | CNN Architecture: The Four Building Blocks | 3 |
 | [lab04](./lab04) | Recurrent Networks: RNN, LSTM and GRU | 4 |
+| [lab05](./lab05) | Optimizers: SGD, Mini-batches, Momentum, RMSProp and Adam | 5 |
  
   
 ## How to use this repo
