@@ -19,6 +19,7 @@ This lab builds deep learning skills from the ground up — starting with neural
 | [lab04](./lab04) | Recurrent Networks: RNN, LSTM and GRU | 4 |
 | [lab05](./lab05) | Optimizers: SGD, Mini-batches, Momentum, RMSProp and Adam | 5 |
 | [lab06](./lab06) | Regularization: L1, L2, Dropout, Initialisation and Batch Norm | 6 |
+| [lab07](./lab07) | TensorFlow and Keras: Everything You Built, in One Line Each | 7 |
  
   
 ## How to use this repo

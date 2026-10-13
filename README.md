@@ -11,7 +11,7 @@ The implementations herein bridge theoretical machine learning concepts with han
 
 ##  Tech Stack & Tools
 * **Languages:** Python
-* **Libraries:** NumPy, Pandas, Matplotlib (add others like PyTorch or TensorFlow as the course progresses)
+* **Libraries:** NumPy, Pandas, Matplotlib, TensorFlow / Keras (PyTorch to follow as the course progresses)
 * **Environment:** VS Code
 * **Version Control:** Git & GitHub
 
