@@ -7,7 +7,7 @@ Lab material for ARTI 402. Each folder contains the notebook and any data files 
  
 ## Course overview
  
-This lab builds deep learning skills from the ground up — starting with neural networks implemented from scratch in NumPy, then moving to TensorFlow and PyTorch. Topics include feedforward networks and back-propagation, CNNs and transfer learning, RNNs/LSTMs/GRUs, optimization and regularization, autoencoders, attention, and generative models (VAEs, GANs). The focus is on understanding what happens inside a model, then training and debugging real ones with modern frameworks.
+This lab builds deep learning skills from the ground up — starting with neural networks implemented from scratch in NumPy, then moving to TensorFlow and PyTorch. Topics include feedforward networks and back-propagation, CNNs and transfer learning, RNNs/LSTMs/GRUs, optimization and regularization, autoencoders, attention, natural language processing (named entity recognition with spaCy), and generative models (VAEs, GANs). The focus is on understanding what happens inside a model, then training and debugging real ones with modern frameworks.
  
 ## Labs
  
@@ -20,6 +20,7 @@ This lab builds deep learning skills from the ground up — starting with neural
 | [lab05](./lab05) | Optimizers: SGD, Mini-batches, Momentum, RMSProp and Adam | 5 |
 | [lab06](./lab06) | Regularization: L1, L2, Dropout, Initialisation and Batch Norm | 6 |
 | [lab07](./lab07) | TensorFlow and Keras: Everything You Built, in One Line Each | 7 |
+| [lab09](./lab09) | Named Entity Recognition (NER) with spaCy | 9 |
  
   
 ## How to use this repo

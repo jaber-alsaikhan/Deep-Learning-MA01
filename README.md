@@ -7,11 +7,12 @@ The implementations herein bridge theoretical machine learning concepts with han
 * **Algorithm Implementation:** Engineering fundamental neural network architectures from scratch, including the Perceptron Learning Algorithm used to model logic functions (e.g., NAND gates).
 * **Network Optimization:** Applying mathematical foundations to compute loss, execute forward propagation, and implement backpropagation for weight updates.
 * **Data Engineering & Matrix Operations:** Leveraging Python and NumPy for high-performance numerical processing and matrix transformations essential for deep learning models.
+* **Natural Language Processing:** Named Entity Recognition with spaCy, covering pre-trained entity extraction, BILUO annotation and fine-tuning a custom NER model.
 * **Model Evaluation:** Analyzing convergence rates, tuning hyperparameters, and evaluating model accuracy and performance metrics.
 
 ##  Tech Stack & Tools
 * **Languages:** Python
-* **Libraries:** NumPy, Pandas, Matplotlib, TensorFlow / Keras (PyTorch to follow as the course progresses)
+* **Libraries:** NumPy, Pandas, Matplotlib, TensorFlow / Keras, spaCy (PyTorch to follow as the course progresses)
 * **Environment:** VS Code
 * **Version Control:** Git & GitHub
 
