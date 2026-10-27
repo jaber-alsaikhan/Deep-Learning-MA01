@@ -8,11 +8,12 @@ The implementations herein bridge theoretical machine learning concepts with han
 * **Network Optimization:** Applying mathematical foundations to compute loss, execute forward propagation, and implement backpropagation for weight updates.
 * **Deep Learning Frameworks:** Building and training networks in TensorFlow / Keras and PyTorch, including hand-written PyTorch training loops (`zero_grad` → forward → `backward` → `step`), autograd verification and `DataLoader` pipelines.
 * **Data Engineering & Matrix Operations:** Leveraging Python and NumPy for high-performance numerical processing and matrix transformations essential for deep learning models.
+* **Representation Learning:** Training autoencoders without labels to compress data through a bottleneck, reusing the learned encoder as a feature extractor, building denoising autoencoders, and using reconstruction error for anomaly detection.
 * **Model Evaluation:** Analyzing convergence rates, tuning hyperparameters, and evaluating model accuracy and performance metrics.
 
 ##  Tech Stack & Tools
 * **Languages:** Python
-* **Libraries:** NumPy, Pandas, Matplotlib, TensorFlow / Keras, PyTorch
+* **Libraries:** NumPy, Pandas, Matplotlib, TensorFlow / Keras, PyTorch, scikit-learn
 * **Environment:** VS Code
 * **Version Control:** Git & GitHub
 

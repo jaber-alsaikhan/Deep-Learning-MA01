@@ -21,6 +21,7 @@ This lab builds deep learning skills from the ground up — starting with neural
 | [lab06](./lab06) | Regularization: L1, L2, Dropout, Initialisation and Batch Norm | 6 |
 | [lab07](./lab07) | TensorFlow and Keras: Everything You Built, in One Line Each | 7 |
 | [lab08](./lab08) | PyTorch: Writing the Training Loop Again, On Purpose | 8 |
+| [lab09](./lab09) | Autoencoders: Learning Without Labels | 9 |
  
   
 ## How to use this repo
