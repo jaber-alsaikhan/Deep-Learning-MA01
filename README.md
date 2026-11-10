@@ -9,6 +9,7 @@ The implementations herein bridge theoretical machine learning concepts with han
 * **Deep Learning Frameworks:** Building and training networks in TensorFlow / Keras and PyTorch, including hand-written PyTorch training loops (`zero_grad` → forward → `backward` → `step`), autograd verification and `DataLoader` pipelines.
 * **Data Engineering & Matrix Operations:** Leveraging Python and NumPy for high-performance numerical processing and matrix transformations essential for deep learning models.
 * **Representation Learning:** Training autoencoders without labels to compress data through a bottleneck, reusing the learned encoder as a feature extractor, building denoising autoencoders, and using reconstruction error for anomaly detection.
+* **Attention Mechanisms:** Implementing scaled dot-product attention from scratch in NumPy, showing why the √d_k scaling keeps softmax from saturating, comparing attention against a single-vector bottleneck on long-sequence retrieval, and building self-attention with the causal mask used by GPT-style decoders.
 * **Model Evaluation:** Analyzing convergence rates, tuning hyperparameters, and evaluating model accuracy and performance metrics.
 
 ##  Tech Stack & Tools
